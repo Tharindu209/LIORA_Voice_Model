@@ -1,0 +1,17 @@
+# Ignore environment-specific files
+.env.local
+
+# Ignore logs
+logs/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+docs/
+venv/
+model/
+*.pyc
+__pycache__/
